@@ -20,3 +20,4 @@ export default {
     xl: 'screen and (max-width: 1280px)'
   },
 }
+//#0F1624
